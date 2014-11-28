@@ -1,2 +1,3 @@
 getwd()
-1+1*sqrt(5).
+1+1*sqrt(5)
+runif(100)
